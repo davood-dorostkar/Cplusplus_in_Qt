@@ -1,2 +1,1 @@
-# Cplusplus_in_Qt
-Qt with C++
+# C++ in Qt
